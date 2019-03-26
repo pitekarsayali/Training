@@ -1,0 +1,50 @@
+﻿@model mvcPrac.Models.EmployeeModel
+@{
+    ViewBag.Title = "RegistrationForm";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<div style="background-color:blueviolet;text-align:center">
+<h2>RegistrationForm</h2>
+    </div>
+
+<div style="padding-top:30px;border:solid;padding-bottom:30px;">
+    <div class="col-md-12" style="padding-top:30px;border:thick">
+        @Html.Label("Employee Name")
+        @Html.EditorFor(m => m.Name, new { HtmlAttributes = new { @class = "form-control" } })
+    </div>
+
+    <div class="col-md-12" style="padding-top:30px">
+        @Html.Label("Designation")
+        @Html.EditorFor(m => m.Designtion, new { HtmlAttributes = new { @class = "form-control" } })
+    </div>
+
+    <div class="col-md-12" style="padding-top:30px">
+        @Html.Label("Employee State")
+        @Html.DropDownListFor(m =>m.State, new List<SelectListItem>
+            {
+            new SelectListItem{ Text="Maharashtra", Value = "1" },
+            new SelectListItem{ Text="Hydrabad", Value = "2" },
+            new SelectListItem{ Text="Banglore", Value = "3" },
+        })
+    </div>
+
+
+    <div class="col-md-12" style="padding-top:30px">
+        @Html.Label("Employee City")
+        @Html.DropDownListFor(m =>m.city, new List<SelectListItem>
+            {
+            new SelectListItem{ Text="pune", Value = "1" },
+            new SelectListItem{ Text="mumbai", Value = "2" },
+            new SelectListItem{ Text="nashik", Value = "3" },
+        })
+    </div>
+
+    @*<div class="col-md-12" style="padding-top:30px">
+        <input type="button" value="Submit" class="alert-danger" style="background-color:chartreuse;width:70px;height:30px">
+    </div>*@
+
+    <div>
+        @Html.ActionLink("Submit", "submit")
+    </div>
+</div>

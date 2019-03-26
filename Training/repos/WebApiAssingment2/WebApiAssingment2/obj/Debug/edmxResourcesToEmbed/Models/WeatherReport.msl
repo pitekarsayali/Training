@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WeatherReportStoreContainer" CdmEntityContainer="WeatherReportContainer">
+    <EntitySetMapping Name="WeathReports">
+      <EntityTypeMapping TypeName="IsTypeOf(WeatherReport.WeathReport)">
+        <MappingFragment StoreEntitySet="WeathReports">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="State" ColumnName="State" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Temp" ColumnName="Temp" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

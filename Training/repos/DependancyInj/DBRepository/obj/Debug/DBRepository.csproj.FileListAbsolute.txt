@@ -1,0 +1,12 @@
+C:\Users\sayali.pitekar\source\repos\DependancyInj\DBRepository\obj\Debug\DBRepository.csprojAssemblyReference.cache
+C:\Users\sayali.pitekar\source\repos\DependancyInj\DBRepository\obj\Debug\DBRepository.csproj.CoreCompileInputs.cache
+C:\Users\sayali.pitekar\source\repos\DependancyInj\DBRepository\bin\Debug\DBRepository.dll
+C:\Users\sayali.pitekar\source\repos\DependancyInj\DBRepository\bin\Debug\DBRepository.pdb
+C:\Users\sayali.pitekar\source\repos\DependancyInj\DBRepository\bin\Debug\Entity.dll
+C:\Users\sayali.pitekar\source\repos\DependancyInj\DBRepository\bin\Debug\EntityFramework.dll
+C:\Users\sayali.pitekar\source\repos\DependancyInj\DBRepository\bin\Debug\Entity.pdb
+C:\Users\sayali.pitekar\source\repos\DependancyInj\DBRepository\bin\Debug\Entity.dll.config
+C:\Users\sayali.pitekar\source\repos\DependancyInj\DBRepository\bin\Debug\EntityFramework.xml
+C:\Users\sayali.pitekar\source\repos\DependancyInj\DBRepository\obj\Debug\DBRepository.csproj.CopyComplete
+C:\Users\sayali.pitekar\source\repos\DependancyInj\DBRepository\obj\Debug\DBRepository.dll
+C:\Users\sayali.pitekar\source\repos\DependancyInj\DBRepository\obj\Debug\DBRepository.pdb

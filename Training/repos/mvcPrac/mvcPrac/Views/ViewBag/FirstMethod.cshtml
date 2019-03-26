@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "FirstMethod";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<h2>FirstMethod</h2>
+
+string s=TempData["str"].ToString()
+
+@{ 
+    TempData.Keep("s");
+}
+
+<p>@TempData["new"]</p>

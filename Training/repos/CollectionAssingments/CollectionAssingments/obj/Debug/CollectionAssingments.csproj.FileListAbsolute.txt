@@ -1,0 +1,7 @@
+C:\Users\sayali.pitekar\source\repos\CollectionAssingments\CollectionAssingments\bin\Debug\CollectionAssingments.exe.config
+C:\Users\sayali.pitekar\source\repos\CollectionAssingments\CollectionAssingments\bin\Debug\CollectionAssingments.exe
+C:\Users\sayali.pitekar\source\repos\CollectionAssingments\CollectionAssingments\bin\Debug\CollectionAssingments.pdb
+C:\Users\sayali.pitekar\source\repos\CollectionAssingments\CollectionAssingments\obj\Debug\CollectionAssingments.csprojAssemblyReference.cache
+C:\Users\sayali.pitekar\source\repos\CollectionAssingments\CollectionAssingments\obj\Debug\CollectionAssingments.csproj.CoreCompileInputs.cache
+C:\Users\sayali.pitekar\source\repos\CollectionAssingments\CollectionAssingments\obj\Debug\CollectionAssingments.exe
+C:\Users\sayali.pitekar\source\repos\CollectionAssingments\CollectionAssingments\obj\Debug\CollectionAssingments.pdb

@@ -1,0 +1,46 @@
+﻿@model IEnumerable<mvcCrudWithScaf.Models.StudInformation>
+@{
+                /**/
+
+                ViewBag.Title = "show";
+}
+
+<h2>show</h2>
+<b>@Html.ActionLink("Add a New Employee", "CreateEmp")</b>
+<table class="table">
+    <tr>
+        <td>
+            @Html.DisplayNameFor(m => m.Id)
+        </td>
+        <td>
+            @Html.DisplayNameFor(m => m.Name)
+        </td>
+
+        <td>
+            @Html.DisplayNameFor(m => m.salary)
+        </td>
+        <td></td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelitem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelitem => item.Name)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelitem => item.salary)
+            </td>
+            <td></td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id })
+                @Html.ActionLink("Details", "Details", new { id = item.Id })
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>
+

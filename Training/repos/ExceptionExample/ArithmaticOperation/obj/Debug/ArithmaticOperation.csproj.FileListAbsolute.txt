@@ -1,0 +1,6 @@
+C:\Users\sayali.pitekar\source\repos\ExceptionExample\ArithmaticOperation\bin\Debug\ArithmaticOperation.dll
+C:\Users\sayali.pitekar\source\repos\ExceptionExample\ArithmaticOperation\bin\Debug\ArithmaticOperation.pdb
+C:\Users\sayali.pitekar\source\repos\ExceptionExample\ArithmaticOperation\obj\Debug\ArithmaticOperation.csproj.CoreCompileInputs.cache
+C:\Users\sayali.pitekar\source\repos\ExceptionExample\ArithmaticOperation\obj\Debug\ArithmaticOperation.dll
+C:\Users\sayali.pitekar\source\repos\ExceptionExample\ArithmaticOperation\obj\Debug\ArithmaticOperation.pdb
+C:\Users\sayali.pitekar\source\repos\ExceptionExample\ArithmaticOperation\obj\Debug\ArithmaticOperation.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\sayali.pitekar\source\repos\GenericCollection\GenericCollection\bin\Debug\GenericCollection.exe.config
+C:\Users\sayali.pitekar\source\repos\GenericCollection\GenericCollection\bin\Debug\GenericCollection.exe
+C:\Users\sayali.pitekar\source\repos\GenericCollection\GenericCollection\bin\Debug\GenericCollection.pdb
+C:\Users\sayali.pitekar\source\repos\GenericCollection\GenericCollection\obj\Debug\GenericCollection.csprojAssemblyReference.cache
+C:\Users\sayali.pitekar\source\repos\GenericCollection\GenericCollection\obj\Debug\GenericCollection.csproj.CoreCompileInputs.cache
+C:\Users\sayali.pitekar\source\repos\GenericCollection\GenericCollection\obj\Debug\GenericCollection.exe
+C:\Users\sayali.pitekar\source\repos\GenericCollection\GenericCollection\obj\Debug\GenericCollection.pdb

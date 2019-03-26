@@ -1,0 +1,10 @@
+C:\Users\sayali.pitekar\source\repos\ExceptionExample\ExceptionExample\bin\Debug\ExceptionExample.exe.config
+C:\Users\sayali.pitekar\source\repos\ExceptionExample\ExceptionExample\bin\Debug\ExceptionExample.exe
+C:\Users\sayali.pitekar\source\repos\ExceptionExample\ExceptionExample\bin\Debug\ExceptionExample.pdb
+C:\Users\sayali.pitekar\source\repos\ExceptionExample\ExceptionExample\obj\Debug\ExceptionExample.csprojAssemblyReference.cache
+C:\Users\sayali.pitekar\source\repos\ExceptionExample\ExceptionExample\obj\Debug\ExceptionExample.csproj.CoreCompileInputs.cache
+C:\Users\sayali.pitekar\source\repos\ExceptionExample\ExceptionExample\obj\Debug\ExceptionExample.exe
+C:\Users\sayali.pitekar\source\repos\ExceptionExample\ExceptionExample\obj\Debug\ExceptionExample.pdb
+C:\Users\sayali.pitekar\source\repos\ExceptionExample\ExceptionExample\bin\Debug\ArithmaticOperation.dll
+C:\Users\sayali.pitekar\source\repos\ExceptionExample\ExceptionExample\bin\Debug\ArithmaticOperation.pdb
+C:\Users\sayali.pitekar\source\repos\ExceptionExample\ExceptionExample\obj\Debug\ExceptionExample.csproj.CopyComplete

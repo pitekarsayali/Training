@@ -1,0 +1,6 @@
+C:\Users\sayali.pitekar\source\repos\March12\CustomModel\bin\Debug\CustomModel.dll
+C:\Users\sayali.pitekar\source\repos\March12\CustomModel\bin\Debug\CustomModel.pdb
+C:\Users\sayali.pitekar\source\repos\March12\CustomModel\obj\Debug\CustomModel.csprojAssemblyReference.cache
+C:\Users\sayali.pitekar\source\repos\March12\CustomModel\obj\Debug\CustomModel.csproj.CoreCompileInputs.cache
+C:\Users\sayali.pitekar\source\repos\March12\CustomModel\obj\Debug\CustomModel.dll
+C:\Users\sayali.pitekar\source\repos\March12\CustomModel\obj\Debug\CustomModel.pdb

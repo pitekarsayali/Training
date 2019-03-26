@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<h2>Index</h2>
+
+<ul>
+    @foreach (string str in ViewBag.Brandlist)
+    {
+        <li>
+            @str
+            </li>
+    }
+    </ul>

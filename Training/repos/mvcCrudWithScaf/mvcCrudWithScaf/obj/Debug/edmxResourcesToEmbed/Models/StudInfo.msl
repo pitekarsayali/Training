@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="StudInfoStoreContainer" CdmEntityContainer="StudInfoContainer">
+    <EntitySetMapping Name="StudInformations">
+      <EntityTypeMapping TypeName="IsTypeOf(StudInfo.StudInformation)">
+        <MappingFragment StoreEntitySet="StudInformations">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="salary" ColumnName="salary" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

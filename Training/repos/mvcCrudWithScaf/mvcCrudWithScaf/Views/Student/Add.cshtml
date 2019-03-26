@@ -1,0 +1,32 @@
+﻿@model mvcCrudWithScaf.Models.StudInformation
+
+@{
+    ViewBag.Title = "Add";
+}
+
+@Html.BeginForm("Add", "StudentController") ;
+{
+  @Html.AntiForgeryToken()
+
+
+<h2>Add Employee</h2>
+
+<div class="col-md-12">
+    Employee Name:
+    @Html.EditorFor(m => m.Name, new { htmlAttributes = new { @class = "form-control" } })
+</div>
+
+<div class="col-md-12">
+    Employee Salary:
+    @Html.EditorFor(m => m.salary, new { htmlAttributes = new { @class = "form-control" } })
+</div>
+
+<div class="col-md-12">
+    <input type ="button" id="btn1" class="bg-success" value="Add">
+</div>
+
+<div class="col-md-12">
+   
+</div>
+
+

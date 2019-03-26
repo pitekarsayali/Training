@@ -1,0 +1,14 @@
+C:\Users\sayali.pitekar\source\repos\DependancyInj\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\sayali.pitekar\source\repos\DependancyInj\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\sayali.pitekar\source\repos\DependancyInj\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\sayali.pitekar\source\repos\DependancyInj\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\sayali.pitekar\source\repos\DependancyInj\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\sayali.pitekar\source\repos\DependancyInj\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\sayali.pitekar\source\repos\DependancyInj\BusinessLogic\bin\Debug\DBRepository.dll
+C:\Users\sayali.pitekar\source\repos\DependancyInj\BusinessLogic\bin\Debug\Entity.dll
+C:\Users\sayali.pitekar\source\repos\DependancyInj\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\sayali.pitekar\source\repos\DependancyInj\BusinessLogic\bin\Debug\DBRepository.pdb
+C:\Users\sayali.pitekar\source\repos\DependancyInj\BusinessLogic\bin\Debug\Entity.pdb
+C:\Users\sayali.pitekar\source\repos\DependancyInj\BusinessLogic\bin\Debug\Entity.dll.config
+C:\Users\sayali.pitekar\source\repos\DependancyInj\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\sayali.pitekar\source\repos\DependancyInj\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete

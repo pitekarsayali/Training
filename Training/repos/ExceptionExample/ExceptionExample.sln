@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionExample", "ExceptionExample\ExceptionExample.csproj", "{8917B298-848D-498A-9BBF-4C69A0FDB4FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmaticOperation", "ArithmaticOperation\ArithmaticOperation.csproj", "{113455EB-BAC9-4A2A-8EC3-A0D5916CBBEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8917B298-848D-498A-9BBF-4C69A0FDB4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8917B298-848D-498A-9BBF-4C69A0FDB4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8917B298-848D-498A-9BBF-4C69A0FDB4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8917B298-848D-498A-9BBF-4C69A0FDB4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113455EB-BAC9-4A2A-8EC3-A0D5916CBBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113455EB-BAC9-4A2A-8EC3-A0D5916CBBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113455EB-BAC9-4A2A-8EC3-A0D5916CBBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113455EB-BAC9-4A2A-8EC3-A0D5916CBBEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4669AD72-7A14-4176-8C3F-5A2D6590C8B2}
+	EndGlobalSection
+EndGlobal

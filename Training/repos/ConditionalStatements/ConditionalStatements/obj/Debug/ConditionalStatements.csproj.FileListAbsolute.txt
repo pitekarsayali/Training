@@ -1,0 +1,7 @@
+C:\Users\sayali.pitekar\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config
+C:\Users\sayali.pitekar\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe
+C:\Users\sayali.pitekar\source\repos\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.pdb
+C:\Users\sayali.pitekar\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csprojAssemblyReference.cache
+C:\Users\sayali.pitekar\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\sayali.pitekar\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.exe
+C:\Users\sayali.pitekar\source\repos\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.pdb

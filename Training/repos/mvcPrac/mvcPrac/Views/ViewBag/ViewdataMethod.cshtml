@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "ViewdataMethod";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<h2>ViewdataMethod</h2>
+
+<ul>
+    @foreach(string str in (List<string>)ViewData["Brandlist"])
+        {
+    <li>
+        @str
+        </li>
+
+    }
+    </ul>
